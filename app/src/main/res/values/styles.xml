@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_tittle">
+    <item name="android:textColor">@color/blue_medicina</item>
+    <item name="fontFamily">@font/greys</item>
+    </style>
+    <style name="style_body">
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/greys</item>
+    </style>
+    <style name="style_body_form">
+        <item name="android:textColor">@color/p_light</item>
+        <item name="fontFamily">@font/alternative</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="style_body_form_number">
+        <item name="android:textColor">@color/p_light</item>
+        <item name="fontFamily">@font/alternative</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="style_button_dark">
+        <item name="android:backgroundTint">@color/blue_bass</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25dp</item>
+        <item name="fontFamily">@font/greys</item>
+    </style>
+    <style name="style_button_light">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/blue_bass</item>
+        <item name="android:textSize">25dp</item>
+        <item name="fontFamily">@font/greys</item>
+    </style>
+</resources>
